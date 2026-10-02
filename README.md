@@ -9,7 +9,7 @@ Production-ready, grounded AI systems built from unstructured business data unde
 
 ---
 
-## 📋 Assessment Matrix & Working Outcomes
+## 📋 Assessment Matrix & Working Outcomes :
 
 | Question | Functional Deliverable | Key Innovation | Benchmark Evidence |
 | :--- | :--- | :--- | :--- |
